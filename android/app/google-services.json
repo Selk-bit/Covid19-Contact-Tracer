@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182345550176",
+    "project_id": "covidtracer-6538a",
+    "storage_bucket": "covidtracer-6538a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182345550176:android:52b205ff6573dcd2d4b605",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGfeHddVewZdaxL2Su5CTBCci2jiUQmKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
