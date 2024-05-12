@@ -47,8 +47,8 @@ The Internal View of the application stands out for its simplicity, focusing on 
 
 ## Data Storage in Firebase
 
-Data storage in Firebase, the central pivot of this contact tracing application, relies on two key collections: "users" and "met_with". Each user is represented by a separate document in the "users" collection where sensitive data such as email and password are securely recorded. Similarly, details of encounters between users essential for contact tracing are stored in the "met_with" collection with information such as time, location, and participant identifiers.
+Data storage in Firebase, the central pivot of this contact tracing application, relies on two key collections: "users" and "met_with". Each user is represented by a separate document in the "users" collection where sensitive data such as email and password are securely recorded. Similarly, details of encounters between users are stored in the "met_with" collection with information such as time, location, and participant identifiers.
 
-## Conclusion
 
-In conclusion, this COVID-19 contact tracing application developed with Flutter and powered by Firebase stands out for its thought-out architecture, simplified features, and enhanced security measures. The main view offers direct access to essential actions for login and registration. The internal view centered on a single start tracing button ensures a seamless experience. Data storage in Firebase's "users" and "encounters" collections managed by Cloud Firestore ensures efficient and secure management. Combining effective data management with rigorous security practices, our application ensures safe and efficient storage of crucial information for COVID-19 contact tracking.
+For more, visit my LinkedIn profile: [Salim Elkellouti](https://www.linkedin.com/in/salim-elkellouti/).
+
